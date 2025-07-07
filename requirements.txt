@@ -1,0 +1,3 @@
+psutil
+pyperclip
+PySimpleGUI --extra-index-url https://PySimpleGUI.net/install
