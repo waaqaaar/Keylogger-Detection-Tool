@@ -23,7 +23,7 @@ The tool applies basic behavioral heuristics to:
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/keylogger-detection-tool.git
-cd keylogger-detection-tool
+git clone https://github.com/waaqaar/Keylogger-Detection-Tool.git
+cd Keylogger-Detection-Tool
 pip install -r requirements.txt
 python detector.py
